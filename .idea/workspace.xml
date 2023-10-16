@@ -10,7 +10,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SocketPrograming_Client.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/TestClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/7dngu/Desktop/2-2/컴네 2-2/과제/과제2/SocketPrograming_Server/src/TestServer.java"
+    "last_opened_file_path": "C:/Users/7dngu/Desktop/2-2/컴네 2-2/과제/과제2"
   }
 }]]></component>
   <component name="RunManager">
