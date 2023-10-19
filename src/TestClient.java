@@ -19,7 +19,7 @@ class TestClient {
         BufferedReader inFromServer = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 
         // 사용자로부터 메시지 입력을 받고 서버로 전송
-        System.out.println("서버에 보낼 메시지를 입력하세요: ");
+        System.out.println("서버에 보낼 메시지를 입력하세요 ");
         sentence = inFromUser.readLine();
         outToServer.writeBytes(sentence + "\n");
 
